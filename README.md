@@ -17,10 +17,10 @@ I'm a Computer Science student with a passion for backend development, specializ
 
 ### 🚀 Skills & Technologies:
 - **Languages:** Java, SQL, JavaScript
-- **Frameworks:** Spring Boot, Hibernate, JPA
-- **Databases:** MySQL, PostgreSQL
-- **Tools & Platforms:** Git, Postman, Docker
-- **Other Skills:** REST APIs, Microservices, Cloud Deployment, Firebase, Version Control
+- **Frameworks:** Spring Boot, Hibernate, Flutter(Basic) , React Js(Basic)
+- **Databases:** MySQL, Firebase
+- **Tools & Platforms:** Git, GitHub, Postman
+- **Other Skills:** REST APIs, Backend Development 
 
 ---
 
